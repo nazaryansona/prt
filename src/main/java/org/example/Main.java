@@ -6,7 +6,7 @@ public class Main {
     }
 
     private static String a() {
-        return "Hello ";
+        return "Hi ";
     }
 
     private static String b() {
